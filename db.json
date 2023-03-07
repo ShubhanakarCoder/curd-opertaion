@@ -1,0 +1,60 @@
+{
+  "database": [
+    {
+      "firstName": "Bob",
+      "LastName": "Johnson",
+      "Email": "",
+      "Salary": 55000,
+      "Date": "2022-04-10",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "firstName": "Sara",
+      "LastName": "Williams",
+      "Email": "sarawilliams@example.com",
+      "Salary": 65000,
+      "Date": "2022-05-05"
+    },
+    {
+      "id": 6,
+      "firstName": "Emily",
+      "LastName": "Davis",
+      "Email": "emilydavis@example.com",
+      "Salary": 45000,
+      "Date": "2022-07-15"
+    },
+    {
+      "firstName": "Adam",
+      "LastName": "Wilson",
+      "Email": "adamwilson@example.com",
+      "Salary": "",
+      "Date": "2022-08-30",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "firstName": "Melissa",
+      "LastName": "Garcia",
+      "Email": "melissagarcia@example.com",
+      "Salary": 55000,
+      "Date": "2022-09-25"
+    },
+    {
+      "id": 9,
+      "firstName": "Chris",
+      "LastName": "Lee",
+      "Email": "chrislee@example.com",
+      "Salary": 60000,
+      "Date": "2022-10-10"
+    },
+    {
+      "id": 10,
+      "firstName": "Laura",
+      "LastName": "Clark",
+      "Email": "lauraclark@example.com",
+      "Salary": 75000,
+      "Date": "2022-11-20"
+    }
+  ]
+}
